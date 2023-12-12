@@ -18,5 +18,6 @@ Top.v
       - ALU
       - COMP
     - MEM
-      - RAM (Vivado IP : Distributed Memory Generator)
+      - RAM
+        - data_pool (Vivado IP : Distributed Memory Generator)
     - WB
