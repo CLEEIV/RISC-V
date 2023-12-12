@@ -1,7 +1,7 @@
 # RISC-V
 
 #### 工程結構
-- Top.v
+Top.v
   - CLK_Gen (Vivado IP : Clocking Wizard)
   - RISCV
     - CTRL
