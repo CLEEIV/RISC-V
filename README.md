@@ -6,7 +6,7 @@
 
 
 ### 工程結構
-Top.v
+TOP.v
   - CLK_Gen (Vivado IP : Clocking Wizard)
   - RISCV
     - CTRL
@@ -26,3 +26,8 @@ Top.v
       - RAM
         - data_pool (Vivado IP : Distributed Memory Generator)
     - WB
+
+
+### 模擬工程
+- TOP_tb.v
+  - TOP.v
